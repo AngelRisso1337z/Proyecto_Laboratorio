@@ -300,6 +300,8 @@ public class Chess {
                                 break;
                             }
                         }
+                    }else if(tabla[x][y].equals("[kw]")){
+                        
                     }
 
                 } else {
